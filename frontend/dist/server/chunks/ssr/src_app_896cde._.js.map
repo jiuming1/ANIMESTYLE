@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 12, "column": 0}, "map": {"version":3,"sources":["file://D%3A/%E8%87%AA%E5%8A%A8%E5%8C%96%E4%BA%8C%E5%AD%A6%E4%BD%8D/%E6%AF%95%E4%B8%9A%E7%9F%A5%E8%AF%86%E5%87%86%E5%A4%87/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/animestyle/frontend/src/app/favicon.ico.mjs%20%28structured%20image%20object%29"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 256, height: 256 }\n"],"names":[],"mappings":";;;AAAA;;uCACe;IAAE,KAAA,kHAAA,CAAA,UAAG;IAAE,OAAO;IAAK,QAAQ;AAAI"}},
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
